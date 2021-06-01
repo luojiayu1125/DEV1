@@ -1,0 +1,5 @@
+git config --global user.name "luojiayu1125"
+git config --global user.email "873234425@qq.com"
+git clone https://github.com/luojiayu1125/dev.git
+
+https://github.com/luojiayu1125/DEV1.git
